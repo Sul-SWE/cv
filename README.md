@@ -19,5 +19,4 @@ A lightweight, clean, and fully responsive personal CV website built using core 
 
 ---
 
-### 👤 Author
 **Sulaiman Alsarhayd**
